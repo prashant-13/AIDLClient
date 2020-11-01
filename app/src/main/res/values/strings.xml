@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">AIDL Client</string>
+    <string name="get_orientation">Get Orientation</string>
+</resources>
